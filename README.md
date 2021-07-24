@@ -39,7 +39,19 @@
 
 ## MultiThreading
 
+- MultiThreading Concepts(Jenkov)
+   - [Concurrency in Java]( http://tutorials.jenkov.com/java-concurrency/index.html)
+   - [Concurrency Models](http://tutorials.jenkov.com/java-concurrency/concurrency-models.html)
+   - [Concurrency vs Parallelism](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
+   - [Create and Start Java Threads](https://www.youtube.com/watch?v=eQk5AWcTS8w)
+   - [Race Consition and Critical Sections](https://www.youtube.com/watch?v=RMR75VzYoos&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=9)
+   - [Thread Safety and Shared Resources](http://tutorials.jenkov.com/java-concurrency/thread-safety.html)
+   - [Java Memory Model WRT MultiThreading](https://www.youtube.com/watch?v=LCSqZyjBwWA&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=6)
+   - [Synchronize blocks](https://www.youtube.com/watch?v=eKWjfZ-TUdo&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=7)
+   - [Volatile keyword](https://www.youtube.com/watch?v=nhYIEqt-jvY&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=6)
+   - [Threadpool](https://www.youtube.com/watch?v=ZcKt5FYd3bU&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=12)
 
+- [Java Executor Services Youtube Playlist(basic)](https://www.youtube.com/playlist?list=PLPn4T86dJstfydxMrepAcakR3MSZEHaa5)
 
 ## Maven
 
