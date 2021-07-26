@@ -1,6 +1,6 @@
 # Learning Resources for Javaa Spring
 
-## Contents   
+## Contents
 
 1. [Popular Reference Sites](#popular-reference-sites)
    - [WebSites](#websites)
@@ -12,6 +12,8 @@
 3. [MultiThreading](#multithreading)
 4. [Maven](#maven)
 6. [Spring Basics](#spring-basics)
+7. [Sample Projects](#sample-projects)
+8. [My Spring Boot Project](#my-spring-boot-project)
 
 ## Popular Reference Sites
 
@@ -28,6 +30,13 @@
    - [Udemy - Beginner to Guru Course](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/ )
 
 ## Core Java Concepts
+
+- OOP Concepts - Object Oriented Programming (Enough resources are there)
+- Abstract and Nested Classes
+- Interfaces
+- [Exception Handling]()
+- [Generics]()
+- [Lembda Expressions in Java]()
 
 ## Logging in Java
 
@@ -79,3 +88,11 @@
    - [Hindi Video](https://www.youtube.com/watch?v=agTUJ4aVJSQ)
 - [What is CRUD Repository](https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=3)
 
+## Sample Projects
+
+- [Simple Spring Boot REST APIs using Spring JPA, Hibernate, MySql](https://dzone.com/articles/how-to-create-rest-api-with-spring-boot)   
+
+## My Spring Boot Project
+
+This is the project I am building while learning Spring Boot in order to implement what I have learnt
+#### [My Spring Boot Movie Catelog Project](https://github.com/AVNV2201/spring-boot-movie-catelog.git)
