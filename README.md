@@ -37,6 +37,16 @@
 - [Exception Handling]()
 - [Generics]()
 - [Lembda Expressions in Java]()
+- SOLID Principles
+   - S: Single Responsibility   
+   Each should have only reponsibility
+   - O: Open/ Close Principle  
+   Every class should be open for extension but close for modification
+   - L: Liskov Substitution Principle  
+   Objects of class should be replacable with instances of their subtypes WITHOUT altering the correctness of program
+   - I: Interface Segregation Principle
+   Make fine grained interfaces that are client specific, many client specific principles are better than one general purpose interface
+   - D: Dependency Inversion Princple (not same as Dependency Injection)
 
 ## Logging in Java
 
@@ -86,6 +96,9 @@
 - What is JPA
    - [English Video](https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=3)
    - [Hindi Video](https://www.youtube.com/watch?v=agTUJ4aVJSQ)
+   - [JPA Annotations - Basic Mapping](https://stackabuse.com/guide-to-jpa-with-hibernate-basic-mapping)
+   - [JPA Annotations - Relationship Mapping](https://stackabuse.com/a-guide-to-jpa-with-hibernate-relationship-mapping)
+   - [Annotaions CheatSheet](pictures/AssociationMappingsWithJPAandHibernate.pdf)
 - [What is CRUD Repository](https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=3)
 
 ## Sample Projects
