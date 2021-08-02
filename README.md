@@ -93,6 +93,7 @@
    - [More on Dependency Injection](https://www.baeldung.com/spring-dependency-injection)
    - [Video on Spring MVC](https://www.youtube.com/watch?v=y8zyPlIdTyE)
 
+- [Project Lombok](https://projectlombok.org/features/all)
 - What is JPA
    - [English Video](https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=3)
    - [Hindi Video](https://www.youtube.com/watch?v=agTUJ4aVJSQ)
@@ -100,12 +101,24 @@
    - [JPA Annotations - Relationship Mapping](https://stackabuse.com/a-guide-to-jpa-with-hibernate-relationship-mapping)
    - [Annotaions CheatSheet](pictures/AssociationMappingsWithJPAandHibernate.pdf)
 - [What is CRUD Repository](https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=3)
+- Spring Data MongoDB
+   - [Baeldung Tutorial](https://www.baeldung.com/spring-data-mongodb-guide)
+   - [Spring Boot REST APIs using MongoDB](https://www.bezkoder.com/spring-boot-mongodb-crud/)
+   - [Reference Documentation](https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#preface)
+
+- Spring Data Elasticsearch
+   - [Baeldung Tutorial](https://www.baeldung.com/spring-data-elasticsearch-tutorial)
+   - [Code Example](https://reflectoring.io/spring-boot-elasticsearch/)
+   - [Reference Documentation](https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/#reference)
 
 ## Sample Projects
 
 - [Simple Spring Boot REST APIs using Spring JPA, Hibernate, MySql](https://dzone.com/articles/how-to-create-rest-api-with-spring-boot)   
+- [Spring Boot REST APIs using MongoDB](https://www.bezkoder.com/spring-boot-mongodb-crud/)
+- [Spring Boot Web App using Spring Data Elasticsearch Code Example](https://reflectoring.io/spring-boot-elasticsearch/)
 
 ## My Spring Boot Project
 
 This is the project I am building while learning Spring Boot in order to implement what I have learnt
-#### [My Spring Boot Movie Catelog Project](https://github.com/AVNV2201/spring-boot-movie-catelog.git)
+#### [My Spring Boot Movie Catelog REST APIs using H2 Database and MySQL](https://github.com/AVNV2201/spring-boot-movie-catelog.git)
+#### [My Spring Boot Movie Catelog REST APIs using MongoDB and Elasticsearch](https://github.com/AVNV2201/movie-catelog-spring-boot-mongodb-elasticsearch)
