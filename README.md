@@ -110,6 +110,8 @@
    - [Baeldung Tutorial](https://www.baeldung.com/spring-data-elasticsearch-tutorial)
    - [Code Example](https://reflectoring.io/spring-boot-elasticsearch/)
    - [Reference Documentation](https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/#reference)
+   - [ElasticsearchRstTemplate Example](https://reflectoring.io/spring-boot-elasticsearch/)
+- [Swagger2](https://dzone.com/articles/spring-boot-restful-api-documentation-with-swagger)
 
 ## Sample Projects
 
@@ -120,5 +122,5 @@
 ## My Spring Boot Project
 
 This is the project I am building while learning Spring Boot in order to implement what I have learnt
-#### [My Spring Boot Movie Catelog REST APIs using H2 Database and MySQL](https://github.com/AVNV2201/spring-boot-movie-catelog.git)
+<!-- #### [My Spring Boot Movie Catelog REST APIs using H2 Database and MySQL](https://github.com/AVNV2201/spring-boot-movie-catelog.git) -->
 #### [My Spring Boot Movie Catelog REST APIs using MongoDB and Elasticsearch](https://github.com/AVNV2201/movie-catelog-spring-boot-mongodb-elasticsearch)
