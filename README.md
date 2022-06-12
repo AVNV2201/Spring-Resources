@@ -12,6 +12,7 @@
 3. [MultiThreading](#multithreading)
 4. [Maven](#maven)
 6. [Spring Basics](#spring-basics)
+6. [kafka](#kafka)
 7. [Sample Projects](#sample-projects)
 8. [My Spring Boot Project](#my-spring-boot-project)
 
@@ -112,6 +113,10 @@
    - [Reference Documentation](https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/#reference)
    - [ElasticsearchRstTemplate Example](https://reflectoring.io/spring-boot-elasticsearch/)
 - [Swagger2](https://dzone.com/articles/spring-boot-restful-api-documentation-with-swagger)
+
+## Kafka
+
+- [Kafka Fundamentals](https://www.youtube.com/watch?v=B5j3uNBH8X4&list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA&index=3) 
 
 ## Sample Projects
 
